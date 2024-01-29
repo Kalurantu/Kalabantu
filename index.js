@@ -36,7 +36,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["Welcoming In Elite Slayers","Listening to Nqtu","Elite Slayers on Top"];
+const statusMessages = ["Resulting In Elite Slayers","Listening to M4FIA","Elite Slayers on Top"];
 
 
 let currentIndex = 0;
